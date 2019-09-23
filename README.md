@@ -1,4 +1,4 @@
-# IoTBlindAssist
+# IoT Blind Assist
 
 >Arduino code for IoT enabled blind assist(Arduino UNO).
 
