@@ -7,7 +7,7 @@
 
 SoftwareSerial SerialBLE(2, 3); //BLUETOOTH
 SoftwareSerial serial_connection(10, 11); //GPS
-char auth[] = "122050e6c75d9448bbed7d8e9830727ea";
+char auth[] = "";//AUTH code from Blynk App
 unsigned int index=1;
 float latitude;
 float longitude;
